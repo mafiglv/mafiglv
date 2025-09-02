@@ -1,4 +1,4 @@
-<h1 align="center">👩‍💻 Germária Lins Vilela</h1>
+<h1 align="center">👩‍💻 Germária Lins</h1>
 <h3 align="center">Full Stack Developer | Web & Mobile</h3>
 
 <div align="center">
@@ -18,15 +18,16 @@
 
 ---
 
-<h3 align="left">✨ Sobre mim</h3>
+<h3 align="left">💻 Sobre mim</h3>
 
 <p align="left">
-Sou graduanda em <b>Análise e Desenvolvimento de Sistemas</b> e tenho experiência prática em projetos que envolvem aplicações web e mobile, integração com APIs e usabilidade de interfaces. 
+Graduanda em <b>Análise e Desenvolvimento de Sistemas</b>, transformando ideias em <b>aplicações web e mobile</b> que realmente funcionam. Integro <b>APIs</b> e desenho <b>interfaces pensadas no usuário</b>.  
 <br><br>
-Faço parte do ecossistema do Porto Digital do Recife como Desenvolvedora Full Stack da <b>Residência Tecnológica</b>, desenvolvendo soluções digitais para grandes empresas como Banco do Brasil, Accenture e Exmed. 
+Atuo como <b>Desenvolvedora Full Stack</b> na <b>Residência Tecnológica do Porto Digital</b>, colaborando em projetos digitais para empresas como <b>Banco do Brasil, Accenture e Exmed</b> — desafios que ensinam todos os dias.  
 <br><br>
-Meu objetivo é consolidar minha carreira como <b>Full Stack Developer</b>, aplicando boas práticas de código, metodologias ágeis e criando soluções acessíveis e inclusivas. 🚀
+Meu objetivo é crescer como <b>Full Stack Developer</b>, escrevendo <b>código limpo</b>, aplicando <b>metodologias ágeis</b> e criando soluções <b>úteis, acessíveis e que façam sentido</b> no dia a dia das pessoas. 🚀
 </p>
+
 
 ---
 
