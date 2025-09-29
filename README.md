@@ -23,7 +23,7 @@
 <p align="left">
 Graduanda em <b>Análise e Desenvolvimento de Sistemas</b>, transformando ideias em <b>aplicações web e mobile</b> que realmente funcionam. Integro <b>APIs</b> e desenho <b>interfaces pensadas no usuário</b>.  
 <br><br>
-Atuo como <b>Desenvolvedora Full Stack</b> na <b>Residência Tecnológica do Porto Digital</b>, colaborando em projetos digitais para empresas como <b>Banco do Brasil, Accenture e Exmed</b> — desafios que ensinam todos os dias.  
+Atuo como <b>Desenvolvedora Full Stack</b> na <b>Residência Tecnológica do Porto Digital</b>, colaborando em projetos digitais para empresas como <b>Banco do Brasil, Accenture e Exmed</b>.  
 <br><br>
 Meu objetivo é crescer como <b>Full Stack Developer</b>, escrevendo <b>código limpo</b>, aplicando <b>metodologias ágeis</b> e criando soluções <b>úteis, acessíveis e que façam sentido</b> no dia a dia das pessoas. 🚀
 </p>
